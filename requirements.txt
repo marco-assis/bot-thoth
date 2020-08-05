@@ -1,0 +1,5 @@
+discord
+PyDictionary
+googletrans
+wikipedia
+googlesearch
